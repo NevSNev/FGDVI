@@ -9,12 +9,12 @@ Flow-Guided Diffusion for Video Inpainting
 </div>
 
 <p align="center">
-    <img src="https://github.com/NevSNev/FGDVI/blob/main/GIF/cross-country.gif" width="400px">
-    <img src="https://github.com/NevSNev/FGDVI/blob/main/GIF/dogs.gif" width="400px">
+    <img src="https://github.com/NevSNev/FGDVI/blob/main/GIF/cross-country.gif" width="500px">
+    <img src="https://github.com/NevSNev/FGDVI/blob/main/GIF/dogs.gif" width="500px">
 </p>
 
 <p align="center">
-    <img src="https://github.com/NevSNev/FGDVI/blob/main/GIF/horse.gif" width="200px">
-    <img src="https://github.com/NevSNev/FGDVI/blob/main/GIF/scooter.gif" width="200px">
+    <img src="https://github.com/NevSNev/FGDVI/blob/main/GIF/horse.gif" width="500px">
+    <img src="https://github.com/NevSNev/FGDVI/blob/main/GIF/scooter.gif" width="500px">
 </p>
 code coming soon...
