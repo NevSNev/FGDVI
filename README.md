@@ -1,6 +1,6 @@
 # FGDVI
 Flow-Guided Diffusion for Video Inpainting
-![](https://github.com/NevSNev/FGDVI/blob/main/GIF/movie.pdf)
+![image](https://github.com/NevSNev/FGDVI/blob/main/GIF/movie.pdf)
 <div>
     <h4 align="left">
     <a href="https://arxiv.org/abs/2311.15368" target='_blank'>
