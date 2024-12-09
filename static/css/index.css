@@ -1,0 +1,70 @@
+.publication-title {
+  font-family: 'Google Sans', sans-serif;
+  font-weight: 100;
+  /* font-size: 1rem; */
+}
+
+.title.is-1{
+  font-size: 2.25rem;
+}
+
+.publication-authors {
+  font-family: 'Google Sans', sans-serif;
+}
+
+
+.subtitle {
+  font-size: 1.25rem;
+}
+
+.hero-body {
+  padding-top: 1.5rem;
+  padding-bottom: 0rem;
+}
+
+.section h2{
+  font-size: 2rem;
+}
+
+.text-bold{
+  font-weight: 600;
+}
+
+.section{
+  padding: 2.25rem 1.5rem;
+}
+
+/* Container holding the image and the text */
+.img-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 16px;
+  right: 16px;
+}
