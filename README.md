@@ -7,6 +7,7 @@
     </a>
     </h4>
 </div>
+[![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://nevsnev.github.io/FloED/)
 
 
 ## Method Overview
