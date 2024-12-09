@@ -1,14 +1,7 @@
 # FloED <br><sub> Advanced Video Inpainting Using Optical Flow-Guided Efficient Diffusion </sub>
-<div>
-    <h4 align="left">
-    <a href="https://arxiv.org/abs/2412.00857" target='_blank'>
-    <img src="https://img.shields.io/badge/arXiv-2412.00857-b31b1b.svg">
-    </a>
-    </h4>
-</div>
 
+[![arXiv](https://img.shields.io/badge/arXiv-2412.00857-b31b1b)](https://arxiv.org/abs/2412.00857)
 [![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://nevsnev.github.io/FloED)
-[![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://zhang-zx.github.io/AVID)
 
 
 ## Method Overview
