@@ -35,6 +35,7 @@
 
 <video autoplay controls muted loop playsinline height="100%">
   <source src="https://raw.githubusercontent.com/NevSNev/FloED-main/main/static/FloED/Comparison_1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
 *“Water appears to be flowing, the rock is covered in ice.”*
