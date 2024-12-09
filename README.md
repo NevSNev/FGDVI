@@ -3,7 +3,7 @@
 <div>
     <h4 align="left">
     <a href="https://arxiv.org/abs/2412.00857" target='_blank'>
-    <img src="https://img.shields.io/badge/arXiv-2311.15368-b31b1b.svg">
+    <img src="https://img.shields.io/badge/arXiv-2412.00857-b31b1b.svg">
     </a>
     </h4>
 </div>
