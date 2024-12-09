@@ -16,7 +16,7 @@
 
 ## Method Overview
 
-![Method Overview](static/FloED/Fig_0.jpg)
+![Method Overview](Assert/Fig_0.jpg)
  <div class="content has-text-justified">
           <p>
             Recently, diffusion-based methods have achieved great improvements in the video inpainting task. However, these methods still face many challenges, such as maintaining temporal consistency and the time-consuming issue.
