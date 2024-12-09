@@ -1,6 +1,5 @@
 # FloED: Advanced Video Inpainting Using Optical Flow-Guided Efficient Diffusion
 
-## 📄 [Paper](https://arxiv.org/pdf/2412.00857) | [arXiv](https://arxiv.org/abs/2412.00857)
 <div>
     <h4 align="left">
     <a href="https://arxiv.org/abs/2412.00857" target='_blank'>
@@ -10,27 +9,10 @@
 </div>
 
 
----
-
-## Abstract
-
-Recently, diffusion-based methods have achieved great improvements in the video inpainting task. However, these methods still face many challenges, such as maintaining temporal consistency and the time-consuming issue. This paper proposes an advanced video inpainting framework using optical Flow-guided Efficient Diffusion, called FloED. 
-
-Specifically, FloED employs a dual-branch architecture, where a flow branch first restores corrupted flow and a multi-scale flow adapter provides motion guidance to the main inpainting branch. Additionally, a training-free latent interpolation method is proposed to accelerate the multi-step denoising process using flow warping. Further introducing a flow attention cache mechanism, FloED efficiently reduces the computational cost brought by incorporating optical flow. Comprehensive experiments in both background restoration and object removal tasks demonstrate that FloED outperforms state-of-the-art methods from the perspective of both performance and efficiency.
-
----
-
 ## Method Overview
 
 ![Method Overview](static/FloED/Fig_0.jpg)
 
-Our method employs a dual-branch architecture implemented through a two-stage training approach:
-
-1. **Motion Layer Optimization**: We first focus on the upper branch, optimizing the motion layer to adapt specifically to the video inpainting domain.
-2. **Flow Branch and Adapter**: We use a dedicated flow branch complemented by a **multi-scale flow adapter**, which provides flow guidance covering upblocks of the primary UNet. During the inference phase, we enhance efficiency by integrating the **flow attention cache**.
-3. **Latent Interpolation**: We introduce a **training-free latent interpolation** technique that leverages optical flow to speed up the multi-step denoising process. Complemented by a flow attention cache mechanism, FloED efficiently reduces the additional computational costs introduced by the flow.
-
-![Flow Details](static/FloED/Fig_1.jpg)
 
 ---
 
