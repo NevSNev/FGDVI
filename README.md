@@ -1,17 +1,14 @@
 # FloED: Advanced Video Inpainting Using Optical Flow-Guided Efficient Diffusion
 
-**FloED:** Advanced Video Inpainting Using Optical **Flo**w-Guided **E**fficient **D**iffusion
-
-## Authors
-
-- **Bohai Gu**¹,², **Hao Luo**²\*, **Song Guo**¹\*, **Peiran Dong**¹
----
-**¹** Hong Kong University of Science and Technology  
-**²** Alibaba Group  
-**\*** Co-Corresponding Authors
----
-
 ## 📄 [Paper](https://arxiv.org/pdf/2412.00857) | [arXiv](https://arxiv.org/abs/2412.00857)
+<div>
+    <h4 align="left">
+    <a href="https://arxiv.org/abs/2412.00857" target='_blank'>
+    <img src="https://img.shields.io/badge/arXiv-2311.15368-b31b1b.svg">
+    </a>
+    </h4>
+</div>
+
 
 ---
 
@@ -43,7 +40,6 @@ Our method employs a dual-branch architecture implemented through a two-stage tr
 
 <video autoplay controls muted loop playsinline height="100%">
   <source src="static/FloED/Comparison_1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 *“Water appears to be flowing, the rock is covered in ice.”*
@@ -56,7 +52,6 @@ Our method employs a dual-branch architecture implemented through a two-stage tr
 
 <video autoplay controls muted loop playsinline height="100%">
   <source src="static/FloED/Comparison_2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 *“A series of staircases, 8K.”*
