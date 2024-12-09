@@ -4,6 +4,13 @@
 [![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://nevsnev.github.io/FloED)
 
 
+> [Bohai Gu]<sup>1,2</sup>,
+> [Hao Luo] <sup>2</sup>,
+> [Song Guo]<sup>1</sup>,
+> [Peiran Dong]<sup>1</sup>,
+> <sup>1</sup> Hong Kong University of Science and Technology
+> <sup>2</sup> Alibaba 
+
 ## Method Overview
 
 ![Method Overview](static/FloED/Fig_0.jpg)
