@@ -4,17 +4,11 @@
 
 ## Authors
 
-- **Bohai Gu**¹,²,
-- **Hao Luo**²\*,
-- **Song Guo**¹\*,
-- **Peiran Dong**¹
-
+- **Bohai Gu**¹,², **Hao Luo**²\*, **Song Guo**¹\*, **Peiran Dong**¹
 ---
-
 **¹** Hong Kong University of Science and Technology  
 **²** Alibaba Group  
 **\*** Co-Corresponding Authors
-
 ---
 
 ## 📄 [Paper](https://arxiv.org/pdf/2412.00857) | [arXiv](https://arxiv.org/abs/2412.00857)
