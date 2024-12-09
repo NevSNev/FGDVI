@@ -6,7 +6,9 @@
     </a>
     </h4>
 </div>
+
 [![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://nevsnev.github.io/FloED)
+[![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://zhang-zx.github.io/AVID)
 
 
 ## Method Overview
