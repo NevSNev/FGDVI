@@ -1,5 +1,4 @@
-# FloED: Advanced Video Inpainting Using Optical Flow-Guided Efficient Diffusion
-
+# FloED <br><sub> Advanced Video Inpainting Using Optical Flow-Guided Efficient Diffusion </sub>
 <div>
     <h4 align="left">
     <a href="https://arxiv.org/abs/2412.00857" target='_blank'>
@@ -7,7 +6,7 @@
     </a>
     </h4>
 </div>
-[![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://nevsnev.github.io/FloED/)
+[![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://nevsnev.github.io/FloED)
 
 
 ## Method Overview
