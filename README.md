@@ -7,7 +7,15 @@
 ## Method Overview
 
 ![Method Overview](static/FloED/Fig_0.jpg)
-
+ <div class="content has-text-justified">
+          <p>
+            Recently, diffusion-based methods have achieved great improvements in the video inpainting task. However, these methods still face many challenges, such as maintaining temporal consistency and the time-consuming issue.
+            This paper proposes an advanced video inpainting framework using optical Flow-guided Efficient Diffusion, called FloED. 
+            Specifically, FloED employs a dual-branch architecture, where a flow branch first restores corrupted flow and a multi-scale flow adapter provides motion guidance to the main inpainting branch.
+            Additionally, a training-free latent interpolation method is proposed to accelerate the multi-step denoising process using flow warping. Further introducing a flow attention cache mechanism, FLoED efficiently reduces the computational cost brought by incorporating optical flow.
+            Comprehensive experiments in both background restoration and object removal tasks demonstrate that FloED outperforms state-of-the-art methods from the perspective of both performance and efficiency.
+          </p>
+        </div>
 
 ---
 
