@@ -5,6 +5,7 @@
 > Hao Luo <sup>2</sup>,
 > Song Guo <sup>1</sup>,
 > Peiran Dong <sup>1</sup>,
+
 > <sup>1</sup> Hong Kong University of Science and Technology
 > <sup>2</sup> Alibaba Group
 
@@ -33,7 +34,7 @@
 ### Example 1: Water and Ice Scene
 
 <video autoplay controls muted loop playsinline height="100%">
-  <source src="https://raw.githubusercontent.com/NevSNev/FloED-main/main/static/FloED/Comparison_1.mp4" type="video/mp4">
+  <source src="https://github.com/NevSNev/FloED-main/raw/refs/heads/main/static/FloED/Comparison_1.mp4" type="video/mp4">
 </video>
 
 *“Water appears to be flowing, the rock is covered in ice.”*
