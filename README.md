@@ -33,7 +33,7 @@
 ### Example 1: Water and Ice Scene
 
 <video autoplay controls muted loop playsinline height="100%">
-  <source src="https://github.com/NevSNev/FloED-main/tree/main/static/FloED/Comparison_1.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/NevSNev/FloED-main/main/static/FloED/Comparison_1.mp4" type="video/mp4">
 </video>
 
 *“Water appears to be flowing, the rock is covered in ice.”*
